@@ -1,4 +1,3 @@
-### Prabhjott
 ![fast wheel spin](https://user-images.githubusercontent.com/92236900/182669235-1d4f8991-c14e-4c86-9a3e-06c2ed585ba4.gif)
 
 <!--
