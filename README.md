@@ -1,5 +1,4 @@
-# ![psk-blk](https://user-images.githubusercontent.com/92236900/184399544-fd511c2c-6abf-4c94-a10b-0a01a0d060a2.png)
-
+# <a href="https://prabhjottsk.github.io/Portfolio-Website/"></p>![psk-blk](https://user-images.githubusercontent.com/92236900/184399544-fd511c2c-6abf-4c94-a10b-0a01a0d060a2.png)<p align="center"></a>
 
 ### Hello, I'm Prabhjott! 👋
 
