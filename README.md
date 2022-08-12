@@ -1,4 +1,4 @@
-# <a href="https://prabhjottsk.github.io/Portfolio-Website/"><p align="center">![rfadepsk](https://user-images.githubusercontent.com/92236900/184400182-09bc91e9-16a1-4640-be3b-dcf5661cbb89.png)></p></a>
+# <a href="https://prabhjottsk.github.io/Portfolio-Website/"><p align="center">![rfadepsk](https://user-images.githubusercontent.com/92236900/184400182-09bc91e9-16a1-4640-be3b-dcf5661cbb89.png)</p></a>
 
 ### Hello, I'm Prabhjott! 👋
 
