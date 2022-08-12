@@ -1,15 +1,11 @@
 ### Hello, I'm Prabhjott! 👋
 
-<img width="35%" align="right" alt="Github" src=![fast wheel spin](https://user-images.githubusercontent.com/92236900/184395502-d92b7de2-95eb-4683-b728-c0575bfb6c60.gif) />
+I'm a computer science student who is passionate about cybersecurity, back-end development, and developing apps. 
 
-I'm a computer science student who is passionate about .
-
-- 🔭 I’m currently a undergraduate computer science student at Hunter College.
-- 📚 I’m currently learning front-end development using HTML, CSS, JS.
+- 👨🏻‍💻 I'm a sophomore at Hunter College, pursuing bachelor’s degree in Software Engineering. 
 - 👯 I’m looking for a software development internship. 
 
-
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp; Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -19,7 +15,7 @@ I'm a computer science student who is passionate about .
 and more..
 
 
-### 📫 &nbsp; How to reach me:
+### 📫 &nbsp; How to contact me:
 
 <a href="https://www.linkedin.com/in/prabhjottsk/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:prabhjottsk@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
