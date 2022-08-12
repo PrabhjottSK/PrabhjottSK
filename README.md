@@ -1,4 +1,4 @@
-# <a href="https://prabhjottsk.github.io/Portfolio-Website/"></p>![psk-blk](https://user-images.githubusercontent.com/92236900/184399544-fd511c2c-6abf-4c94-a10b-0a01a0d060a2.png)<p align="center"></a>
+# <a href="https://prabhjottsk.github.io/Portfolio-Website/"><p align="center">![rfadepsk](https://user-images.githubusercontent.com/92236900/184400182-09bc91e9-16a1-4640-be3b-dcf5661cbb89.png)</p></a>
 
 ### Hello, I'm Prabhjott! 👋
 
@@ -21,3 +21,5 @@ and more..
 
 <a href="https://www.linkedin.com/in/prabhjottsk/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:prabhjottsk@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+
+
