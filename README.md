@@ -4,9 +4,9 @@
 
 I'm a computer science student who is passionate about cybersecurity, back-end development, and developing apps. 
 
-👨🏻‍💻 I'm a sophomore at Hunter College.
-🎓 I'm majoring in Computer Science with a minor in Mathematics.
-💻 I’m looking for a software development internship.
+👨🏻‍💻 &nbsp; I'm a sophomore at Hunter College. /
+🎓 &nbsp; I'm majoring in Computer Science with a minor in Mathematics. /
+💻 &nbsp; I’m looking for a software development internship. /
 
 ### 🛠 &nbsp; Tech Stack
 
