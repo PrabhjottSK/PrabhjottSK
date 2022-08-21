@@ -2,7 +2,7 @@
 
 ### Hello, I'm Prabhjott! 👋
 
-I'm a computer science student who is passionate about cybersecurity, full-stack development, and app development. 
+I'm a computer science student who is passionate about cybersecurity, full-stack development, and machine learning. 
 
 👨🏻‍💻 &nbsp; I'm a sophomore at Hunter College. \
 🎓 &nbsp; I'm majoring in Computer Science with a minor in Mathematics. \
