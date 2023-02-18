@@ -1,4 +1,5 @@
-# <a href="https://prabhjottsk.github.io/Portfolio-Website/"><p align="center">![test2](https://user-images.githubusercontent.com/92236900/185813496-93cb0360-b232-4763-b21f-9314aaa021ff.png)</p></a>
+# <a href="https://prabhjottsk.github.io/Portfolio-Website/"><p align="center">![banner_transparent](https://user-images.githubusercontent.com/92236900/219882967-0adc376e-cd29-40df-a89f-a1b27985d8c0.png)</p></a>
+
 
 ### Hello, I'm Prabhjott! 👋
 
