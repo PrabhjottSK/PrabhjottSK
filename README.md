@@ -4,7 +4,7 @@
 
 I'm a computer science student passionate about software design/development, cybersecurity, and artificial intelligence. 
 
-👨🏻‍💻 &nbsp; I'm a sophomore at Hunter College. \
+👨🏻‍💻 &nbsp; I'm a junior at Hunter College. \
 🎓 &nbsp; I'm majoring in Computer Science with a minor in Mathematics. \
 🤝 &nbsp; I’m looking for software engineering & cybersecurity internships.
 
