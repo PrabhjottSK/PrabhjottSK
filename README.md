@@ -2,10 +2,9 @@
 
 ### Hello, I'm Prabhjott! 👋
 
-I'm a computer science student passionate about software design/development, cybersecurity, and artificial intelligence. 
+I'm passionate about software development, cybersecurity, and artificial intelligence. 
 
-👨🏻‍💻 &nbsp; I'm a senior at Hunter College. \
-🎓 &nbsp; I'm majoring in Computer Science with a minor in Mathematics. \
+🎓 &nbsp; I'm a earned by Bachelor's in Computer Science, and a Minor in Mathematics at Hunter College. \
 🤝 &nbsp; I’m looking for software engineering & cybersecurity internships.
 
 ### 📫 &nbsp; Contact Me
