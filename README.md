@@ -4,8 +4,8 @@
 
 I'm passionate about software development, cybersecurity, and artificial intelligence. 
 
-🎓 &nbsp; I earned my Bachelor's in Computer Science, and a Minor in Mathematics at Hunter College. \
-🤝 &nbsp; I’m looking for software engineering & cybersecurity internships.
+🎓 &nbsp; I hold a Bachelor’s degree in Computer Science with a Minor in Mathematics from Hunter College. \
+🤝 &nbsp; I’m currently seeking full-time opportunities in Software Engineering and Cybersecurity.
 
 ### 📫 &nbsp; Contact Me
 
